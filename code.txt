@@ -1,0 +1,11 @@
+pelanggan datang
+read and write "menu" dengan menggunakan array
+read pemilihan menu dari "menu"
+? if menu stok habis
+read "menu"
+? if menu tersedia
+read an write "jenis pembayaran" dengan string
+?if pembayaran succes
+makanan di bawa
+? if pembayaran gagal
+read an write "jenis pembayaran" dengan string
